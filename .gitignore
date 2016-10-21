@@ -1,18 +1,11 @@
-# http://www.gnu.org/software/automake
+#Ignorar imágenes
+*.jpg
+*.jpeg
+*.png
+*.bmp
+#Ignorar documentos
+*.pdf
+*.docx
+*.odt
+*.odg
 
-Makefile.in
-
-# http://www.gnu.org/software/autoconf
-
-/autom4te.cache
-/autoscan.log
-/autoscan-*.log
-/aclocal.m4
-/compile
-/config.h.in
-/configure
-/configure.scan
-/depcomp
-/install-sh
-/missing
-/stamp-h1
